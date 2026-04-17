@@ -59,3 +59,5 @@ uv run streamlit run main.py
 3. 기억의 영속성: 에이전트 간의 대화가 발생한 직후, 좌측의 에이전트 상세 상태 창을 열어 해당 대화 내용이 각 에이전트의 '기억 목록'에 올바르게 추가되었는지 확인합니다.
 
 ## 8. 실행 화면
+
+<img width="1516" height="942" alt="스크린샷 2026-04-17 114645" src="https://github.com/user-attachments/assets/fe354f4f-e61f-459f-92d3-9d84daa6dcfc" />
